@@ -262,3 +262,9 @@ section .main-body {
         animation: none;
     }
 }
+
+/* Make homepage text clearer */
+#home .main-body {
+    color: #000000;
+    font-weight: 400;
+}
