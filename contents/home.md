@@ -1,17 +1,12 @@
+#### About
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+- 张宸瑞，现任云南大学经济学院教师，经济学博士（数量经济学），毕业于厦门大学经济学院，导师为方颖教授、倪骁然教授。
+- 招生信息：招收应用经济学学术型硕士研究生（金融学、产业经济学方向）。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Email: zhangchr03@163.com; zhangchenrui03@126.com
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+法律与金融、劳动与金融、金融科技、资本市场监管

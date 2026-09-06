@@ -1,16 +1,17 @@
-#### Submitted
+#### Publications
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- 倪骁然, & **张宸瑞**. (2025). 数字化转型与企业资本配置效率. ***《统计研究》***, 42(2), 43–57.
 
-#### Published
+- **Zhang, C.** (2025). How does enterprise digital transformation affect the cost of debt financing? Based on the perspective of customer concentration risk. ***International Review of Economics & Finance***, 103, 104426.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Zhang, C.**, & Wang, Y. (2024). Is enterprise digital transformation beneficial to shareholders? Insights from the cost of equity capital. ***International Review of Financial Analysis***, 92, 103104.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Working Papers
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **Blockchain E-Invoicing, Digital Tax Administration, and Stock Price Crash Risk** (sole author). Revise and resubmit at *Journal of Financial Stability*.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- **Scales and Spreadsheets: Judicial Improvements and Corporate Cost Management Decisions** (sole author). Under review at *The British Accounting Review*.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **Technology-Enabled Regulation and Capital Market Price Discovery** (sole author). Under review at *Journal of International Financial Markets, Institutions and Money*.
 
+- **How Dividend Tax Policy Reshapes Corporate Liquidity Management: Evidence from China** (sole author). Under review at *Pacific-Basin Finance Journal*.
