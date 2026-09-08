@@ -1,6 +1,6 @@
 #### Publications
 
-- 倪骁然, & **张宸瑞**. (2025). 数字化转型与企业资本配置效率. ***《统计研究》***, 42(2), 43–57.
+- 倪骁然, & **张宸瑞**. (2025). 数字化转型与企业资本配置效率. **《统计研究》**, 42(2), 43–57.
 
 - **Zhang, C.** (2025). How does enterprise digital transformation affect the cost of debt financing? Based on the perspective of customer concentration risk. ***International Review of Economics & Finance***, 103, 104426.
 
@@ -8,10 +8,10 @@
 
 #### Working Papers
 
-- **Blockchain E-Invoicing, Digital Tax Administration, and Stock Price Crash Risk** (sole author). Revise and resubmit at *Journal of Financial Stability*.
+- **Blockchain E-Invoicing, Digital Tax Administration, and Stock Price Crash Risk**. Revise and resubmit at *Journal of Financial Stability*.
 
-- **Scales and Spreadsheets: Judicial Improvements and Corporate Cost Management Decisions** (sole author). Under review at *The British Accounting Review*.
+- **Scales and Spreadsheets: Judicial Improvements and Corporate Cost Management Decisions**. Under review at *The British Accounting Review*.
 
-- **Technology-Enabled Regulation and Capital Market Price Discovery** (sole author). Under review at *Journal of International Financial Markets, Institutions and Money*.
+- **Technology-Enabled Regulation and Capital Market Price Discovery**. Under review at *Journal of International Financial Markets, Institutions and Money*.
 
-- **How Dividend Tax Policy Reshapes Corporate Liquidity Management: Evidence from China** (sole author). Under review at *Pacific-Basin Finance Journal*.
+- **How Dividend Tax Policy Reshapes Corporate Liquidity Management: Evidence from China**. Under review at *Pacific-Basin Finance Journal*.
