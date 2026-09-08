@@ -4,7 +4,7 @@ top-section-bg-text: ""
 backgrounds:
   - static/assets/background/background_0.jpeg
 background-interval-ms: 7000
-background-overlay: 0
+background-overlay: 0.2
 copyright-text: '&copy; Chenrui Zhang 2026. All Rights Reserved.'
 sections:
   - id: home
