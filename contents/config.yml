@@ -1,10 +1,10 @@
 title: "Chenrui Zhang | Yunnan University"
 page-top-title: Chenrui Zhang
-top-section-bg-text: ""
+top-section-bg-text: Economics & Finance
 backgrounds:
   - static/assets/background/background_0.jpeg
 background-interval-ms: 7000
-background-overlay: 0.2
+background-overlay: 0.35
 copyright-text: '&copy; Chenrui Zhang 2026. All Rights Reserved.'
 sections:
   - id: home
